@@ -24,10 +24,10 @@ Based on [Official Tensorflow implementation](https://github.com/almahdir1/Swin-
 |`swin_base_224` |ImageNet-22K|224x224|85.2|88M|[github](https://github.com/rishigami/Swin-Transformer-TF/releases/download/v0.1-tf-swin-weights/swin_base_224.tgz)|
 
 ## Data Preparation
-To extract the 11 sileces please run the script Create_11_Slices_dataset.m file 
+To extract the 11 sileces please run the script "Create_11_Slices_dataset.m" file 
 
 ## Deep Features Extraction
-To extract the features from the 11 sliecse using pre-trained Swin transfomer please run the script run_Swin_Fea_Ext.py
+To extract the features from the 11 sliecse using pre-trained Swin transfomer please run the script "run_Swin_Fea_Ext.py"
 
 ## Ten Fold Cross Validation Classification
-To train a deep neural network using Swin transfomer features please run the script run_LiverNet_V2_for_tenfold_crossvalidation_classification.m
+To train a deep neural network using Swin transfomer features please run the script "run_train_10k_Fold_CV_classification.m"
