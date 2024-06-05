@@ -34,3 +34,10 @@ To extract the features from the 11 sliecse using pre-trained Swin transfomer pl
 ## Ten Fold Cross Validation Classification
 TensorFlow: To train and test the Multi-channel-DeepLiverNet2.0 please use the script "train.py" and "test.py"
 MATLAB: To train the Multi-channel-DeepLiverNet2.0 please run the script "run_train_10k_Fold_CV_classification.m"
+
+
+# License
+Multi-channel-DeepLiverNet2.0 is released under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0).
+
+Copyright © 2024 Cincinnati Children's Hospital Medical Center
+
