@@ -3,7 +3,7 @@ Liver project
 by Redha Ali
 
 This is the official implementation of our proposed DeepLiverNet2.0:
-![image]
+![image](https://github.com/almahdir1/Multi-channel-DeepLiverNet2.0/blob/main/Figures/DeepLiverNet2.png)
 
 Tensorflow implementation of Swin Transformer model.
 Based on [Official Tensorflow implementation](https://github.com/almahdir1/Swin-Transformer-TF).
