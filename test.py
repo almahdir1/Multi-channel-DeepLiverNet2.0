@@ -58,8 +58,8 @@ def inference(dir_path):
         mu = 99.40
         st = 39.39
         volum_vec_nor = (volum_vec_nor - mu) / st
-        a = -17
-        b = 201
+        a = 0
+        b = 255
         scaled_vec = range_d(volum_vec_nor, a, b)
         scaled_vol = np.reshape(scaled_vec, (sx, sy, sz))
         return scaled_vol
