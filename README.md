@@ -30,4 +30,5 @@ To extract the 11 sileces please run the script "Create_11_Slices_dataset.m" fil
 To extract the features from the 11 sliecse using pre-trained Swin transfomer please run the script "run_Swin_Fea_Ext.py"
 
 ## Ten Fold Cross Validation Classification
-To train a deep neural network using Swin transfomer features please run the script "run_train_10k_Fold_CV_classification.m"
+TensorFlow: To train and test the Multi-channel-DeepLiverNet2.0 please use the script "train.py" and "test.py"
+MATLAB: To train the Multi-channel-DeepLiverNet2.0 please run the script "run_train_10k_Fold_CV_classification.m"
