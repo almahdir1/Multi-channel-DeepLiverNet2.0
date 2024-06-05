@@ -17,6 +17,7 @@ Based on [Official Tensorflow implementation](https://github.com/almahdir1/Swin-
 - `matplotlib==3.5.1`
 - `os==2.1.4`
 - `MATLAB 2021a or later`
+or use `environment.yml`
 
 ## Pretrained Swin Transformer Checkpoints
 **ImageNet-1K and ImageNet-22K Pretrained Checkpoints**  
